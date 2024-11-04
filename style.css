@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
+
+body{
+    font-family: "Rajdhani", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    background-color: rgb(84, 15, 94);
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 35px;
+}
+h4{
+    font-size: 25px;
+}
+
+p{
+    font-size: 20px;
+}
+
+h2, h3, h4{
+    color: rgb(141, 17, 135);
+}
+
+em{
+    color: rgb(194, 69, 194);
+}
+
+a{
+    color: rgb(79, 33, 117);
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+.imagen{
+    width: 400px;
+    height: auto;
+}
